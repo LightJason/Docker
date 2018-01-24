@@ -30,3 +30,7 @@ RUN chmod a+x /opt/saxon/saxon
 
 ENV JAVA_HOME /opt/java
 ENV PATH /root/go/bin:/opt/saxon:/opt/maven/bin:$JAVA_HOME/bin:$PATH
+
+RUN java -version
+RUN javac -version
+RUN mvn --version
