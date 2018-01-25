@@ -8,7 +8,7 @@ The LightJason Docker container is build for any developing strucutre of the who
 
 Docker container with a Java Development Framework (JDK) and additional tools
 
-Tag: ```jdk```
+Tags: ```jdk```
 
 * [Ubuntu Linux](https://wiki.ubuntuusers.de/Bionic_Beaver/)
 * [Oracle JDK 9](http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html)
@@ -19,7 +19,9 @@ Tag: ```jdk```
 
 ## LaTeX Development
 
-Docker container with a TeX-Live build. This container stores a complete installation of the LaTeX distribution with additional tools:
+Docker container with a TeX-Live build. This container stores a complete installation of the LaTeX distribution with additional tools
+
+Tags: ```tex```
 
 * [Alpine Linux 3.7](https://alpinelinux.org/)
 * [TeX-Live](https://www.tug.org/texlive/) LaTeX distribution
