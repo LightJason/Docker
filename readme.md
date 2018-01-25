@@ -15,7 +15,7 @@ Tag: ```jdk```
 * [GHR](http://deeeet.com/ghr/) for Github release building
 * Git Client, Xsltproc, Doxygen, Graphviz, Curl, Wget, Perl and Go are included
 
-## TeX Development
+## LaTeX Development
 
 Docker container with a TeX-Live build. This container stores a complete installation of the LaTeX distribution with additional tools:
 
