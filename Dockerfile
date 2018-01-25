@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:artful
 
 # --- configuration section ----------------------
 ENV DOCKERIMAGE_HUGO_DOWNLOAD https://github.com/gohugoio/hugo/releases/download/v0.34/hugo_0.34_Linux-64bit.deb
