@@ -29,3 +29,15 @@ Tags: ```tex```
 * Git Client with OpenSSH support, Curl, Wget, Perl, GnuPG and Go are included
 * [GHR](http://deeeet.com/ghr/) is included to create GitHub release structure
 
+## Webpage Development
+
+Docker container for building static webpages
+
+Tags: ```web```
+
+* [Ubuntu Linux](https://wiki.ubuntuusers.de/Bionic_Beaver/)
+* [Hugo](https://gohugo.io/)
+* [Node.JS](https://nodejs.org) with global modules
+	* [SVGO](https://github.com/svg/svgo)
+	* [Minifier](https://github.com/fizker/minifier)
+	* [HTML-Minifier](https://github.com/kangax/html-minifier)
