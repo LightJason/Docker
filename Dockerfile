@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:artful
 
 # --- configuration section ----------------------
 ENV DOCKERIMAGE_MAVEN_VERSION 3.5.2
