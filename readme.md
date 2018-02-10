@@ -23,7 +23,7 @@ Docker container with a TeX-Live build. This container stores a complete install
 
 Tags: ```tex```
 
-* [Alpine Linux 3.7](https://alpinelinux.org/)
+* [Alpine Linux Latest](https://hub.docker.com/_/alpine/)
 * [TeX-Live](https://www.tug.org/texlive/) LaTeX distribution
 * [LaTeXMK](https://ctan.org/pkg/latexmk) configuration for building PDF with glossary and mpost
 * Git Client with OpenSSH support, Curl, Wget, Perl, GnuPG and Go are included
