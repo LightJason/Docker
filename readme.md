@@ -10,7 +10,7 @@ Docker container with a Java Development Framework (JDK) and additional tools
 
 Tags: ```jdk```
 
-* [Latest Ubuntu Linux](https://hub.docker.com/_/ubuntu/)
+* [Rolling Ubuntu Linux](https://hub.docker.com/_/ubuntu/)
 * [Oracle JDK 9](http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html)
 * [Maven 3.5.2](https://maven.apache.org/)
 * [Saxon HE 9](http://saxon.sourceforge.net/)

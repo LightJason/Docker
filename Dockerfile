@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:rolling
 
 # --- configuration section ----------------------
 ENV DOCKERIMAGE_MAVEN_VERSION 3.5.2
