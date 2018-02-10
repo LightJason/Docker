@@ -1,4 +1,4 @@
-FROM ubuntu:artful
+FROM ubuntu:rolling
 
 # --- configuration section ----------------------
 ENV DOCKERIMAGE_HUGO_DOWNLOAD https://github.com/gohugoio/hugo/releases/download/v0.31.1/hugo_0.31.1_Linux-64bit.deb
