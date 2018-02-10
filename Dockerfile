@@ -1,4 +1,4 @@
-FROM ubuntu:artful
+FROM ubuntu:latest
 
 # --- configuration section ----------------------
 ENV DOCKERIMAGE_MAVEN_VERSION 3.5.2
