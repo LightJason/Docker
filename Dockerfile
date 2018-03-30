@@ -4,7 +4,7 @@ FROM ubuntu:rolling
 ENV DOCKERIMAGE_MAVEN_VERSION 3.5.2
 ENV DOCKERIMAGE_SAXON_JAR saxon9he.jar
 ENV DOCKERIMAGE_JAVA_DOWNLOAD http://download.oracle.com/otn-pub/java/jdk/9.0.4+11/c2514751926b4512b076cc82f959763f/jdk-9.0.4_linux-x64_bin.tar.gz
-ENV DOCKERIMAGE_SAXON_DOWNLOAD https://sourceforge.net/projects/saxon/files/Saxon-HE/9.8/SaxonHE9-8-0-4J.zip/download
+ENV DOCKERIMAGE_SAXON_DOWNLOAD https://sourceforge.net/projects/saxon/files/latest/download?source=files
 
 
 # --- dependencies section -----------------------
